@@ -1,0 +1,7 @@
+header{
+    background-color: purple;
+    display: flex;
+    height: 200px;
+    border: solid 20px red;
+}
+
